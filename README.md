@@ -1,4 +1,4 @@
-# SQL_Asset4
+# task_4
 💻Task 4: Aggregate Functions and Grouping.
 This repository contains SQL code for Task 4 of the SQL Developer Internship. The task demonstrates the use of aggregate functions and grouping in SQL to analyze employee data.
 
